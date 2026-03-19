@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "芥の部屋は錆色に沈む",
+  "base_artist": "キタニタツヤ",
+  "createdAt": "2026-03-19T11:41:34.707003Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "芥の部屋は錆色に沈む",
+      "artist": "キタニタツヤ",
+      "has_synced": false,
+      "path": "select/01_芥の部屋は錆色に沈む_キタニタツヤ.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "芥の部屋は錆色に沈む",
+      "artist": "Tatsuya Kitani",
+      "has_synced": true,
+      "path": "select/02_芥の部屋は錆色に沈む_Tatsuya_Kitani.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "芥の部屋は錆色に沈む",
+      "artist": "キタニタツヤ",
+      "has_synced": true,
+      "path": "select/03_芥の部屋は錆色に沈む_キタニタツヤ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "芥の部屋は錆色に沈む/キタニタツヤ",
+      "artist": "Tatsuya Kitani",
+      "has_synced": false,
+      "path": "select/04_芥の部屋は錆色に沈む_キタニタツヤ_Tatsuya_Kitani.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "芥の部屋は錆色に沈む",
+      "artist": "キタニタツヤ",
+      "has_synced": false,
+      "path": "select/pl_01_芥の部屋は錆色に沈む_キタニタツヤ.txt"
+    }
+  ]
+}
